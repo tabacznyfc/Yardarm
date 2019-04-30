@@ -1,0 +1,10 @@
+@media(max-width:500px) {
+  #navbar {
+    flex-direction: column;
+    align-items: center;
+  }
+  #navbar .logo {
+    margin-bottom: 1.3rem;
+    text-align: center;
+  }
+}
